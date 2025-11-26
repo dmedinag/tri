@@ -8,7 +8,7 @@ import (
 	"log"
 	"strconv"
 
-	"tri/todo"
+	"dmedinag/tri/todo"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

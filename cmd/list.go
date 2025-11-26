@@ -4,14 +4,13 @@ Copyright © 2025 Dani Medina <dani@medinag.me>
 package cmd
 
 import (
+	"dmedinag/tri/todo"
 	"fmt"
 	"log"
 	"os"
 	"sort"
 	"strconv"
 	"text/tabwriter"
-
-	"tri/todo"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

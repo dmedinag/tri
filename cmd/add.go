@@ -5,7 +5,8 @@ package cmd
 
 import (
 	"log"
-	"tri/todo"
+
+	"dmedinag/tri/todo"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

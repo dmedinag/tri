@@ -1,4 +1,4 @@
-module tri
+module dmedinag/tri
 
 go 1.25.4
 
